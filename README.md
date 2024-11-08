@@ -7,8 +7,8 @@ Cuando el usuario visita la ruta principal (`/`), verá un mensaje y una imagen 
 Cada vez que el usuario adivina correctamente, el número se reinicia, y el juego puede comenzar de nuevo.
 
 ## Requisitos
-Python 3.x
-Flask (instalable con `pip install flask`)
+- Python 3.11
+- Flask (instalable con `pip install flask`)
 
 ## Instalación
 1. Clona el repositorio o descarga el archivo server.py.
